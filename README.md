@@ -1,4 +1,4 @@
 # test1
-Simple readme for testing with PyCharm Community Edition
+Simple little toy project for testing with PyCharm Community Edition
 * first simple change from the IDE
 * second one
